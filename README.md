@@ -1,2 +1,2 @@
 # Java-Study
-记录Java学习成果
+day01 - Java学习第一天Java的基本了解
